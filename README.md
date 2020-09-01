@@ -4,7 +4,7 @@
 
 This projects contain the GC-EI-MS spectra database described in the publication "Towards a more reliable identification of isomeric
 metabolites using pattern guided retention validation". With this concept it is possible to validate the retention behaviour for multiple metabolites simultanously, so identification of metabolites is more reliable and faster.
-![graphical abstract](https://github.com/KempaLab/Ident_Database/blob/master/images/abstract.png){:width = 50%}
+![graphical abstract](images/abstract.png)
 
 
 ## Installation and usage
