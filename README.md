@@ -9,7 +9,7 @@ metabolites using pattern guided retention validation"_. With this concept it is
 
 ## Installation and usage
 
-The spectra are stored as .msp text file. Some programmes (e.g. [MAUI-VIA](https://www.frontiersin.org/articles/10.3389/fbioe.2014.00084/full])) already read .msp format, just copy the file into the correct directory. 
+The spectra are stored as `.msp` text file. Some programmes (e.g. [MAUI-VIA](https://www.frontiersin.org/articles/10.3389/fbioe.2014.00084/full])) already read `.msp` format, just save the file to the correct directory. 
 For other programmes you may need to convert this file to the NISTMS-folder database-style. For this we recommend the use of the [Library Conversion Tool](https://chemdata.nist.gov/mass-spc/ms-search/Library_conversion_tool.html) from NIST.
 Usually then the folder has to be saved in the NISTMS folder. Check the instructions of your software. 
 
