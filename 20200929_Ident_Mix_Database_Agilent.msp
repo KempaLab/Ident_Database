@@ -1,5 +1,6 @@
 Name: Pyruvic acid_(1MEOX)(1TMS)_MP_RI:1047_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Pyruvic acid_(1MEOX)(1TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 0
 Num Peaks: 40
  70 25; 71 12; 72 110; 73 999; 74 291;
@@ -12,7 +13,8 @@ Num Peaks: 40
  189 5; 191 2; 207 18; 208 3; 209 1;
 
 Name: Lactic acid_(2TMS)_MP_RI:1053_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Lactic acid_(2TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 1
 Num Peaks: 47
  70 6; 71 8; 72 33; 73 999; 74 86;
@@ -27,7 +29,8 @@ Num Peaks: 47
  220 2; 221 1;
 
 Name: Valine_(1TMS)_BP_RI:1085_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Valine_(1TMS)_BP_RI:XXXX_IDENT:B+D
 ID: 2
 Num Peaks: 37
  70 17; 71 10; 72 999; 73 239; 74 111;
@@ -40,7 +43,8 @@ Num Peaks: 37
  174 15; 175 2;
 
 Name: Alanine_(2TMS)_BP_RI:1091_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Alanine_(2TMS)_BP_RI:XXXX_IDENT:B+C
 ID: 3
 Num Peaks: 52
  70 19; 72 28; 73 999; 74 97; 75 147;
@@ -56,7 +60,8 @@ Num Peaks: 52
  218 7; 219 1;
 
 Name: Acetoacetic acid_(1MEOX)(1TMS)_BP_RI:1113_IDENT:C+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Acetoacetic acid_(1MEOX)(1TMS)_BP_RI:XXXX_IDENT:C+D
 ID: 4
 Num Peaks: 65
  60 24; 61 56; 62 4; 63 2; 67 4;
@@ -74,7 +79,8 @@ Num Peaks: 65
  188 12; 189 1; 203 31; 204 4; 205 1;
 
 Name: Glycine_(2TMS)_BP_RI:1117_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glycine_(2TMS)_BP_RI:XXXX_IDENT:A+C
 ID: 5
 Num Peaks: 44
  70 14; 71 8; 72 52; 73 999; 74 96;
@@ -88,7 +94,8 @@ Num Peaks: 44
  178 1; 204 35; 205 6; 206 3;
 
 Name: Acetoacetic acid_(1MEOX)(1TMS)_MP_RI:1132_IDENT:C+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Acetoacetic acid_(1MEOX)(1TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 6
 Num Peaks: 64
  60 21; 61 55; 62 4; 63 2; 67 4;
@@ -106,7 +113,8 @@ Num Peaks: 64
  190 3; 203 33; 204 4; 205 1;
 
 Name: Leucine_(1TMS)_BP_RI:1153_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Leucine_(1TMS)_BP_RI:XXXX_IDENT:B+C
 ID: 7
 Num Peaks: 40
  70 59; 71 13; 72 7; 73 312; 74 116;
@@ -119,7 +127,8 @@ Num Peaks: 40
  170 25; 171 12; 172 1; 188 24; 189 1;
 
 Name: Butanoic acid_ 3-hydroxy-_(2TMS)_MP_RI:1155_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Butanoic acid_ 3-hydroxy-_(2TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 8
 Num Peaks: 73
  70 12; 71 16; 72 59; 73 999; 74 103;
@@ -139,7 +148,8 @@ Num Peaks: 73
  233 39; 234 7; 235 3;
 
 Name: Butanoic acid_ 2-amino-_(2TMS)_MP_RI:1167_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Butanoic acid_ 2-amino-_(2TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 9
 Num Peaks: 61
  70 13; 71 9; 72 25; 73 999; 74 97;
@@ -157,7 +167,8 @@ Num Peaks: 61
  232 4;
 
 Name: Proline_(1TMS)_BP_RI:1173_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Proline_(1TMS)_BP_RI:XXXX_IDENT:A+B
 ID: 10
 Num Peaks: 22
  70 999; 71 54; 72 11; 73 71; 74 11;
@@ -167,7 +178,8 @@ Num Peaks: 22
  172 17; 173 1;
 
 Name: Isoleucine_(1TMS)_BP_RI:1175_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Isoleucine_(1TMS)_BP_RI:XXXX_IDENT:A+D
 ID: 11
 Num Peaks: 55
  70 42; 71 6; 72 10; 73 266; 74 107;
@@ -183,7 +195,8 @@ Num Peaks: 55
  171 7; 172 1; 174 1; 188 22; 189 2;
 
 Name: Alanine_ beta-_(2TMS)_BP_RI:1189_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Alanine_ beta-_(2TMS)_BP_RI:XXXX_IDENT:A+D
 ID: 12
 Num Peaks: 49
  70 14; 72 74; 73 999; 74 143; 75 278;
@@ -198,7 +211,8 @@ Num Peaks: 49
  217 1; 218 65; 219 10; 220 4;
 
 Name: Isobutanoic acid_ 3-amino-_(2TMS)_BP_RI:1208_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Isobutanoic acid_ 3-amino-_(2TMS)_BP_RI:XXXX_IDENT:B+C
 ID: 13
 Num Peaks: 64
  70 19; 71 11; 72 40; 73 893; 74 105;
@@ -216,7 +230,8 @@ Num Peaks: 64
  230 1; 232 14; 233 2; 234 1;
 
 Name: Valine_(2TMS)_MP_RI:1213_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Valine_(2TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 14
 Num Peaks: 65
  70 24; 71 9; 72 39; 73 999; 74 103;
@@ -234,7 +249,8 @@ Num Peaks: 65
  218 79; 219 18; 220 7; 221 1; 246 3;
 
 Name: Urea_(2TMS)_MP_RI:1249_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Urea_(2TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 15
 Num Peaks: 77
  70 127; 71 105; 72 140; 73 556; 74 226;
@@ -255,7 +271,8 @@ Num Peaks: 77
  204 11; 205 1;
 
 Name: Serine_(2TMS)_BP_RI:1263_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Serine_(2TMS)_BP_RI:XXXX_IDENT:C+D
 ID: 16
 Num Peaks: 77
  70 19; 71 9; 72 33; 73 999; 74 134;
@@ -276,7 +293,8 @@ Num Peaks: 77
  236 1; 299 1;
 
 Name: Leucine_(2TMS)_MP_RI:1278_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Leucine_(2TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 17
 Num Peaks: 116
  70 16; 71 10; 72 24; 73 999; 74 93;
@@ -305,7 +323,8 @@ Num Peaks: 116
  316 1;
 
 Name: Glycerol_(3TMS)_MP_RI:1280_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glycerol_(3TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 18
 Num Peaks: 76
  70 7; 71 10; 72 27; 73 999; 74 83;
@@ -326,7 +345,8 @@ Num Peaks: 76
  300 1;
 
 Name: Pyruvic acid_ 3-hydroxy-_(1MEOX)(2TMS)_BP_RI:1295_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Pyruvic acid_ 3-hydroxy-_(1MEOX)(2TMS)_BP_RI:XXXX_IDENT:B+D
 ID: 19
 Num Peaks: 58
  70 39; 72 29; 73 999; 74 80; 76 16;
@@ -343,7 +363,8 @@ Num Peaks: 58
  262 52; 263 9; 264 4;
 
 Name: Isoleucine_(2TMS)_MP_RI:1301_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Isoleucine_(2TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 20
 Num Peaks: 83
  70 15; 71 6; 72 27; 73 999; 74 109;
@@ -365,7 +386,8 @@ Num Peaks: 83
  234 3; 260 4; 261 1;
 
 Name: Threonine_(2TMS)_BP_RI:1303_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Threonine_(2TMS)_BP_RI:XXXX_IDENT:C+D
 ID: 21
 Num Peaks: 67
  70 9; 71 8; 72 27; 73 999; 74 115;
@@ -384,7 +406,8 @@ Num Peaks: 67
  248 5; 249 1;
 
 Name: Proline_(2TMS)_MP_RI:1305_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Proline_(2TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 22
 Num Peaks: 56
  70 30; 72 63; 73 999; 74 83; 75 53;
@@ -401,7 +424,8 @@ Num Peaks: 56
  244 2;
 
 Name: Glycine_(3TMS)_MP_RI:1313_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glycine_(3TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 23
 Num Peaks: 69
  70 14; 71 11; 72 27; 73 999; 74 83;
@@ -420,7 +444,8 @@ Num Peaks: 69
  251 1; 276 13; 277 3; 278 1;
 
 Name: Maleic acid_(2TMS)_MP_RI:1314_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Maleic acid_(2TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 24
 Num Peaks: 72
  70 11; 71 13; 72 33; 73 999; 74 87;
@@ -440,7 +465,8 @@ Num Peaks: 72
  246 11; 247 4;
 
 Name: Succinic acid_(2TMS)_MP_RI:1326_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Succinic acid_(2TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 25
 Num Peaks: 65
  70 7; 71 8; 72 40; 73 766; 74 89;
@@ -458,7 +484,8 @@ Num Peaks: 65
  219 1; 247 59; 248 11; 249 5; 262 2;
 
 Name: Glyceric acid_(3TMS)_MP_RI:1339_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glyceric acid_(3TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 26
 Num Peaks: 78
  70 4; 71 5; 72 23; 73 999; 74 100;
@@ -479,7 +506,8 @@ Num Peaks: 78
  307 11; 308 3; 309 1;
 
 Name: Pyruvic acid_ 3-hydroxy-_(1MEOX)(2TMS)_MP_RI:1346_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Pyruvic acid_ 3-hydroxy-_(1MEOX)(2TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 27
 Num Peaks: 74
  70 46; 71 17; 72 31; 73 999; 74 94;
@@ -499,7 +527,8 @@ Num Peaks: 74
  246 8; 262 64; 263 13; 264 5;
 
 Name: Uracil_(2TMS)_MP_RI:1348_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Uracil_(2TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 28
 Num Peaks: 122
  70 97; 71 43; 72 134; 73 709; 74 75;
@@ -529,7 +558,8 @@ Num Peaks: 122
  258 13; 259 2;
 
 Name: Fumaric acid_(2TMS)_MP_RI:1363_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Fumaric acid_(2TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 29
 Num Peaks: 86
  70 15; 71 18; 72 35; 73 999; 74 111;
@@ -552,7 +582,8 @@ Num Peaks: 86
  249 1;
 
 Name: Alanine_(3TMS)_MP_RI:1366_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Alanine_(3TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 30
 Num Peaks: 79
  70 4; 72 28; 73 999; 74 88; 76 12;
@@ -573,7 +604,8 @@ Num Peaks: 79
  290 5; 291 1; 332 1; 336 2;
 
 Name: Serine_(3TMS)_MP_RI:1369_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Serine_(3TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 31
 Num Peaks: 77
  70 15; 71 7; 72 28; 73 999; 74 89;
@@ -594,7 +626,8 @@ Num Peaks: 77
  306 4; 307 1;
 
 Name: Threonine_(3TMS)_MP_RI:1393_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Threonine_(3TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 32
 Num Peaks: 87
  70 9; 71 7; 72 27; 73 999; 74 94;
@@ -617,7 +650,8 @@ Num Peaks: 87
  320 3; 321 1;
 
 Name: Thymine_(2TMS)_MP_RI:1408_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Thymine_(2TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 33
 Num Peaks: 136
  70 106; 71 33; 72 164; 73 999; 74 93;
@@ -650,7 +684,8 @@ Num Peaks: 136
  273 2;
 
 Name: Glutaric acid_(2TMS)_MP_RI:1415_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glutaric acid_(2TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 34
 Num Peaks: 90
  70 13; 71 13; 72 126; 73 999; 74 114;
@@ -673,7 +708,8 @@ Num Peaks: 90
  235 4; 261 86; 262 18; 263 8; 264 1;
 
 Name: Methionine_(1TMS)_BP_RI:1421_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Methionine_(1TMS)_BP_RI:XXXX_IDENT:C+D
 ID: 35
 Num Peaks: 65
  70 9; 71 8; 72 10; 73 284; 74 74;
@@ -691,7 +727,8 @@ Num Peaks: 65
  180 3; 188 4; 221 30; 222 4; 223 2;
 
 Name: Aspartic acid_(2TMS)_BP_RI:1431_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Aspartic acid_(2TMS)_BP_RI:XXXX_IDENT:A+C
 ID: 36
 Num Peaks: 78
  70 69; 71 9; 72 37; 73 999; 74 137;
@@ -712,7 +749,8 @@ Num Peaks: 78
  246 4; 247 1; 262 4;
 
 Name: Alanine_ beta-_(3TMS)_MP_RI:1432_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Alanine_ beta-_(3TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 37
 Num Peaks: 89
  70 13; 71 12; 72 39; 73 999; 74 83;
@@ -735,7 +773,8 @@ Num Peaks: 89
  292 6; 293 1; 304 4; 305 1;
 
 Name: Isobutanoic acid_ 3-amino-_(3TMS)_MP_RI:1458_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Isobutanoic acid_ 3-amino-_(3TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 38
 Num Peaks: 81
  70 12; 71 9; 72 26; 73 999; 74 94;
@@ -757,7 +796,8 @@ Num Peaks: 81
  306 3;
 
 Name: Malic acid_(3TMS)_MP_RI:1486_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Malic acid_(3TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 39
 Num Peaks: 84
  70 5; 71 8; 72 29; 73 999; 74 87;
@@ -779,7 +819,8 @@ Num Peaks: 84
  309 1; 319 2; 335 5; 336 1;
 
 Name: Erythritol_(4TMS)_MP_RI:1501_IDENT:A+B
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Erythritol_(4TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 40
 Num Peaks: 102
  60 8; 61 14; 62 1; 66 9; 67 2;
@@ -805,7 +846,8 @@ Num Peaks: 102
  320 6; 321 1;
 
 Name: Putrescine_(3TMS)_BP_RI:1505_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Putrescine_(3TMS)_BP_RI:XXXX_IDENT:A+D
 ID: 41
 Num Peaks: 25
  86 584; 87 107; 100 395; 102 366; 114 53;
@@ -815,7 +857,8 @@ Num Peaks: 25
  267 21; 289 26; 290 6; 304 9; 337 3;
 
 Name: Methionine_(2TMS)_MP_RI:1515_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Methionine_(2TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 42
 Num Peaks: 108
  70 15; 71 13; 72 31; 73 999; 74 149;
@@ -842,7 +885,8 @@ Num Peaks: 108
  293 29; 294 7; 295 4;
 
 Name: Aspartic acid_(3TMS)_MP_RI:1516_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Aspartic acid_(3TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 43
 Num Peaks: 94
  70 38; 71 6; 72 29; 73 999; 74 133;
@@ -866,7 +910,8 @@ Num Peaks: 94
  307 2; 308 1; 334 2; 349 1;
 
 Name: Pyroglutamic acid_(2TMS)_MP_RI:1519_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Pyroglutamic acid_(2TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 44
 Num Peaks: 82
  70 22; 71 11; 72 51; 73 999; 74 91;
@@ -888,7 +933,8 @@ Num Peaks: 82
  260 3; 273 1;
 
 Name: Cytosine_(2TMS)_MP_RI:1521_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Cytosine_(2TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 45
 Num Peaks: 136
  70 163; 71 51; 72 195; 73 999; 74 154;
@@ -921,7 +967,8 @@ Num Peaks: 136
  257 14;
 
 Name: Butanoic acid_ 4-amino-_(3TMS)_MP_RI:1525_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Butanoic acid_ 4-amino-_(3TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 46
 Num Peaks: 100
  70 15; 71 8; 72 33; 73 999; 74 94;
@@ -946,7 +993,8 @@ Num Peaks: 100
  288 1; 304 82; 305 26; 306 12; 307 2;
 
 Name: Glutamic acid_(2TMS)_BP_RI:1532_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glutamic acid_(2TMS)_BP_RI:XXXX_IDENT:A+B
 ID: 47
 Num Peaks: 75
  72 55; 73 558; 74 89; 75 816; 76 66;
@@ -966,7 +1014,8 @@ Num Peaks: 75
  249 1; 258 3; 276 16; 277 3; 278 1;
 
 Name: Phenylalanine_(1TMS)_BP_RI:1549_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Phenylalanine_(1TMS)_BP_RI:XXXX_IDENT:B+C
 ID: 48
 Num Peaks: 50
  74 130; 75 482; 76 54; 77 169; 78 32;
@@ -981,7 +1030,8 @@ Num Peaks: 50
  205 8; 206 2; 222 19; 223 3; 237 1;
 
 Name: Creatinine_(3TMS)_MP_RI:1549_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Creatinine_(3TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 49
 Num Peaks: 97
  70 23; 71 20; 72 39; 73 999; 74 85;
@@ -1006,7 +1056,8 @@ Num Peaks: 97
  331 6; 332 1;
 
 Name: Cysteine_(3TMS)_MP_RI:1552_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Cysteine_(3TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 50
 Num Peaks: 80
  70 20; 72 24; 73 999; 74 89; 75 123;
@@ -1027,7 +1078,8 @@ Num Peaks: 80
  233 1; 294 6; 295 1; 296 1; 322 1;
 
 Name: Ribose_ 2-deoxy-_(1MEOX)(3TMS)_BP_RI:1568_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ribose_ 2-deoxy-_(1MEOX)(3TMS)_BP_RI:XXXX_IDENT:A+D
 ID: 51
 Num Peaks: 94
  71 1; 72 17; 73 999; 74 81; 75 92;
@@ -1051,7 +1103,8 @@ Num Peaks: 94
  289 1; 307 10; 308 2; 309 1;
 
 Name: Ribose_ 2-deoxy-_(1MEOX)(3TMS)_MP_RI:1570_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ribose_ 2-deoxy-_(1MEOX)(3TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 52
 Num Peaks: 112
  70 109; 71 11; 73 999; 74 76; 78 1;
@@ -1079,7 +1132,8 @@ Num Peaks: 112
  308 8; 309 3;
 
 Name: Serine_(4TMS)_BP_RI:1571_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Serine_(4TMS)_BP_RI:XXXX_IDENT:C+D
 ID: 53
 Num Peaks: 53
  72 11; 73 999; 74 53; 75 12; 84 19;
@@ -1095,7 +1149,8 @@ Num Peaks: 53
  352 1; 378 7; 379 3;
 
 Name: Glutaric acid_ 2-hydroxy-_(3TMS)_MP_RI:1573_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glutaric acid_ 2-hydroxy-_(3TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 54
 Num Peaks: 95
  71 9; 72 66; 73 999; 74 108; 75 309;
@@ -1119,7 +1174,8 @@ Num Peaks: 95
  322 3; 323 1; 349 26; 350 8; 351 4;
 
 Name: Glutaric acid_ 2-oxo-_(1MEOX)(2TMS)_MP_RI:1577_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glutaric acid_ 2-oxo-_(1MEOX)(2TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 55
 Num Peaks: 99
  70 18; 72 40; 73 999; 74 125; 75 631;
@@ -1144,7 +1200,8 @@ Num Peaks: 99
  304 16; 305 3; 306 1; 319 1;
 
 Name: Proline [+CO2]_(2TMS)_BP_RI:1583_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Proline [+CO2]_(2TMS)_BP_RI:XXXX_IDENT:A+B
 ID: 56
 Num Peaks: 35
  70 11; 72 109; 73 999; 74 91; 75 235;
@@ -1156,7 +1213,8 @@ Num Peaks: 35
  216 54; 217 13; 244 2; 288 16; 289 1;
 
 Name: Homocysteine_(2TMS)_MP_RI:1583_IDENT:A+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Homocysteine_(2TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 57
 Num Peaks: 109
  60 31; 61 73; 62 8; 63 9; 65 1;
@@ -1183,7 +1241,8 @@ Num Peaks: 109
  264 1; 279 39; 280 8; 281 5;
 
 Name: Hypotaurine_(3TMS)_MP_RI:1597_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Hypotaurine_(3TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 58
 Num Peaks: 85
  70 19; 71 9; 72 31; 73 999; 74 94;
@@ -1205,7 +1264,8 @@ Num Peaks: 85
  248 7; 249 1; 310 8; 311 2; 312 1;
 
 Name: Phosphoenolpyruvic acid_(3TMS)_MP_RI:1597_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Phosphoenolpyruvic acid_(3TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 59
 Num Peaks: 186
  70 107; 71 70; 72 268; 75 999; 76 46;
@@ -1248,7 +1308,8 @@ Num Peaks: 186
  386 4;
 
 Name: Asparagine_(2TMS)_BP_RI:1599_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Asparagine_(2TMS)_BP_RI:XXXX_IDENT:B+D
 ID: 60
 Num Peaks: 73
  70 81; 71 17; 72 92; 73 999; 74 202;
@@ -1268,7 +1329,8 @@ Num Peaks: 73
  261 3; 276 1; 342 1;
 
 Name: Glutamic acid_(3TMS)_MP_RI:1618_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glutamic acid_(3TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 61
 Num Peaks: 131
  70 7; 71 6; 72 36; 73 999; 74 111;
@@ -1300,7 +1362,8 @@ Num Peaks: 131
  365 1;
 
 Name: Phenylalanine_(2TMS)_MP_RI:1625_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Phenylalanine_(2TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 62
 Num Peaks: 84
  70 8; 71 5; 72 21; 73 999; 74 82;
@@ -1322,7 +1385,8 @@ Num Peaks: 84
  266 13; 267 5; 268 1; 294 2;
 
 Name: Cytosine_(3TMS)_BP_RI:1625_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Cytosine_(3TMS)_BP_RI:XXXX_IDENT:A+B
 ID: 63
 Num Peaks: 57
  70 33; 71 17; 72 41; 73 999; 74 78;
@@ -1339,7 +1403,8 @@ Num Peaks: 57
  328 6; 329 2;
 
 Name: Xylose_(1MEOX)(4TMS)_BP_RI:1640_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Xylose_(1MEOX)(4TMS)_BP_RI:XXXX_IDENT:A+C
 ID: 64
 Num Peaks: 99
  70 10; 71 7; 72 27; 73 999; 74 84;
@@ -1364,7 +1429,8 @@ Num Peaks: 99
  291 1; 307 40; 308 11; 309 4;
 
 Name: Xylose_(1MEOX)(4TMS)_MP_RI:1649_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Xylose_(1MEOX)(4TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 65
 Num Peaks: 114
  70 7; 71 4; 72 20; 73 999; 74 90;
@@ -1392,7 +1458,8 @@ Num Peaks: 114
  307 42; 308 12; 309 6; 310 1;
 
 Name: Homocysteine_(3TMS)_BP_RI:1662_IDENT:A+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Homocysteine_(3TMS)_BP_RI:XXXX_IDENT:A+C
 ID: 66
 Num Peaks: 121
  60 22; 61 21; 62 3; 63 3; 66 7;
@@ -1422,7 +1489,8 @@ Num Peaks: 121
  353 2;
 
 Name: Asparagine_(3TMS)_MP_RI:1666_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Asparagine_(3TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 67
 Num Peaks: 108
  70 27; 71 11; 72 48; 73 999; 74 134;
@@ -1449,7 +1517,8 @@ Num Peaks: 108
  316 1; 333 3; 348 2;
 
 Name: Ribose_(1MEOX)(4TMS)_MP_RI:1669_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ribose_(1MEOX)(4TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 68
 Num Peaks: 135
  70 6; 71 4; 72 21; 73 999; 74 127;
@@ -1481,7 +1550,8 @@ Num Peaks: 135
  309 10; 310 1; 330 1; 331 1; 362 1;
 
 Name: Arabitol_(5TMS)_MP_RI:1708_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Arabitol_(5TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 69
 Num Peaks: 120
  70 1; 71 4; 72 21; 73 999; 74 113;
@@ -1510,7 +1580,8 @@ Num Peaks: 120
  332 7; 333 2; 334 1; 395 1; 422 1;
 
 Name: Ribitol_(5TMS)_MP_RI:1713_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ribitol_(5TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 70
 Num Peaks: 110
  70 3; 71 4; 72 19; 73 999; 74 95;
@@ -1537,7 +1608,8 @@ Num Peaks: 110
  322 1; 332 7; 333 2; 334 1; 422 1;
 
 Name: Putrescine_(4TMS)_MP_RI:1729_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Putrescine_(4TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 71
 Num Peaks: 87
  70 13; 71 10; 72 21; 73 999; 74 92;
@@ -1560,7 +1632,8 @@ Num Peaks: 87
  363 1; 376 2;
 
 Name: Dihydroxyacetone phosphate_(1MEOX)(3TMS)_MP_RI:1739_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Dihydroxyacetone phosphate_(1MEOX)(3TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 72
 Num Peaks: 144
  70 19; 72 33; 73 999; 74 95; 75 91;
@@ -1594,7 +1667,8 @@ Num Peaks: 144
  400 27; 401 9; 402 4; 403 1;
 
 Name: Aconitic acid_ cis-_(3TMS)_MP_RI:1747_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Aconitic acid_ cis-_(3TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 73
 Num Peaks: 120
  70 10; 71 16; 72 28; 73 999; 74 85;
@@ -1623,7 +1697,8 @@ Num Peaks: 120
  346 2; 347 1; 375 19; 376 6; 377 3;
 
 Name: Ornithine_(3TMS)_MP_RI:1748_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ornithine_(3TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 74
 Num Peaks: 99
  70 201; 71 120; 72 20; 73 999; 74 195;
@@ -1648,7 +1723,8 @@ Num Peaks: 99
  259 2; 348 12; 349 4; 350 2;
 
 Name: Dihydroxyacetone phosphate_(1MEOX)(3TMS)_BP_RI:1751_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Dihydroxyacetone phosphate_(1MEOX)(3TMS)_BP_RI:XXXX_IDENT:A+B
 ID: 75
 Num Peaks: 141
  70 20; 72 30; 73 999; 74 89; 75 99;
@@ -1682,7 +1758,8 @@ Num Peaks: 141
  403 1;
 
 Name: Glycerol-3-phosphate_(4TMS)_MP_RI:1756_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glycerol-3-phosphate_(4TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 76
 Num Peaks: 156
  70 3; 71 3; 72 26; 73 999; 74 94;
@@ -1719,7 +1796,8 @@ Num Peaks: 156
  447 2;
 
 Name: Glutamine_(3TMS)_MP_RI:1771_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glutamine_(3TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 77
 Num Peaks: 101
  70 15; 71 3; 72 44; 73 999; 74 110;
@@ -1745,7 +1823,8 @@ Num Peaks: 101
  362 2;
 
 Name: Ethanolaminephosphate_(4TMS)_MP_RI:1777_IDENT:A+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ethanolaminephosphate_(4TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 78
 Num Peaks: 143
  60 19; 61 18; 62 2; 63 4; 65 1;
@@ -1779,7 +1858,8 @@ Num Peaks: 143
  414 7; 415 3; 416 1;
 
 Name: Glutamic acid_ N-acetyl-_(2TMS)_MP_RI:1784_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glutamic acid_ N-acetyl-_(2TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 79
 Num Peaks: 136
  70 20; 71 26; 72 102; 73 962; 74 132;
@@ -1812,7 +1892,8 @@ Num Peaks: 136
  320 3;
 
 Name: Glyceric acid-3-phosphate_(4TMS)_MP_RI:1802_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glyceric acid-3-phosphate_(4TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 80
 Num Peaks: 136
  72 34; 73 999; 74 83; 75 117; 76 8;
@@ -1845,7 +1926,8 @@ Num Peaks: 136
  461 2;
 
 Name: Hypoxanthine_(2TMS)_MP_RI:1807_IDENT:B+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Hypoxanthine_(2TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 81
 Num Peaks: 167
  60 13; 61 17; 62 3; 63 6; 64 7;
@@ -1884,7 +1966,8 @@ Num Peaks: 167
  282 16; 283 2;
 
 Name: Ornithine_(4TMS)_MP_RI:1812_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ornithine_(4TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 82
 Num Peaks: 124
  70 19; 71 7; 72 23; 73 999; 74 106;
@@ -1914,7 +1997,8 @@ Num Peaks: 124
  331 1; 420 6; 421 3; 422 1;
 
 Name: Citric acid_(4TMS)_MP_RI:1814_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Citric acid_(4TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 83
 Num Peaks: 134
  70 6; 71 5; 72 36; 73 999; 74 88;
@@ -1946,7 +2030,8 @@ Num Peaks: 134
  377 3; 465 5; 466 2; 467 1;
 
 Name: Isocitric acid_(4TMS)_MP_RI:1817_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Isocitric acid_(4TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 84
 Num Peaks: 140
  70 5; 71 5; 72 35; 73 999; 74 87;
@@ -1979,7 +2064,8 @@ Num Peaks: 140
  377 3; 390 2; 465 5; 466 3; 467 1;
 
 Name: Arginine [-NH3]_(3TMS)_MP_RI:1823_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Arginine [-NH3]_(3TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 85
 Num Peaks: 105
  70 136; 71 30; 72 24; 73 999; 74 113;
@@ -2005,7 +2091,8 @@ Num Peaks: 105
  284 1; 330 1; 358 1; 373 2; 374 1;
 
 Name: Lysine_(3TMS)_BP_RI:1851_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Lysine_(3TMS)_BP_RI:XXXX_IDENT:A+C
 ID: 86
 Num Peaks: 94
  70 23; 71 10; 72 21; 73 999; 74 167;
@@ -2029,7 +2116,8 @@ Num Peaks: 94
  259 4; 260 2; 289 2; 362 3;
 
 Name: Fructose_(1MEOX)(5TMS)_MP_RI:1862_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Fructose_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 87
 Num Peaks: 110
  70 4; 71 4; 72 18; 73 999; 74 84;
@@ -2056,7 +2144,8 @@ Num Peaks: 110
  310 1; 334 1; 335 2; 364 4; 365 1;
 
 Name: Adenine_(2TMS)_MP_RI:1866_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Adenine_(2TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 88
 Num Peaks: 137
  70 50; 71 34; 72 41; 73 999; 74 133;
@@ -2089,7 +2178,8 @@ Num Peaks: 137
  281 8; 282 1;
 
 Name: Fructose_(1MEOX)(5TMS)_BP_RI:1871_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Fructose_(1MEOX)(5TMS)_BP_RI:XXXX_IDENT:B+C
 ID: 89
 Num Peaks: 121
  70 6; 71 4; 72 18; 73 999; 74 83;
@@ -2119,7 +2209,8 @@ Num Peaks: 121
  365 1;
 
 Name: Mannose_(1MEOX)(5TMS)_MP_RI:1875_IDENT:A+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Mannose_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 90
 Num Peaks: 150
  60 8; 61 12; 62 1; 63 1; 66 8;
@@ -2154,7 +2245,8 @@ Num Peaks: 150
  321 13; 322 2; 344 1; 364 1; 365 1;
 
 Name: Tyrosine_(2TMS)_MP_RI:1883_IDENT:B+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Tyrosine_(2TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 91
 Num Peaks: 122
  60 16; 61 37; 62 6; 63 15; 64 4;
@@ -2184,7 +2276,8 @@ Num Peaks: 122
  312 2; 325 1;
 
 Name: Glucose_(1MEOX)(5TMS)_MP_RI:1885_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucose_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 92
 Num Peaks: 126
  70 4; 71 3; 72 17; 73 999; 74 103;
@@ -2215,7 +2308,8 @@ Num Peaks: 126
  365 1;
 
 Name: Galactose_(1MEOX)(5TMS)_MP_RI:1887_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Galactose_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 93
 Num Peaks: 135
  70 3; 71 4; 72 17; 73 999; 74 100;
@@ -2247,7 +2341,8 @@ Num Peaks: 135
  320 25; 321 12; 322 2; 343 1; 344 1;
 
 Name: Erythrose-4-phosphate_(1MEOX)(4TMS)_BP_RI:1893_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Erythrose-4-phosphate_(1MEOX)(4TMS)_BP_RI:XXXX_IDENT:A+D
 ID: 94
 Num Peaks: 162
  70 7; 72 21; 73 999; 74 83; 75 107;
@@ -2285,7 +2380,8 @@ Num Peaks: 162
  361 1; 373 1;
 
 Name: Erythrose-4-phosphate_(1MEOX)(4TMS)_MP_RI:1902_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Erythrose-4-phosphate_(1MEOX)(4TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 95
 Num Peaks: 160
  72 43; 73 999; 74 50; 75 193; 76 9;
@@ -2322,7 +2418,8 @@ Num Peaks: 160
  374 1; 387 2; 388 1; 389 1; 502 1;
 
 Name: Glucose_(1MEOX)(5TMS)_BP_RI:1902_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucose_(1MEOX)(5TMS)_BP_RI:XXXX_IDENT:B+D
 ID: 96
 Num Peaks: 128
  70 3; 72 18; 73 999; 74 95; 75 96;
@@ -2353,7 +2450,8 @@ Num Peaks: 128
  320 22; 321 10; 322 2;
 
 Name: Lysine_(4TMS)_MP_RI:1914_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Lysine_(4TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 97
 Num Peaks: 133
  70 10; 71 6; 72 22; 73 999; 74 103;
@@ -2385,7 +2483,8 @@ Num Peaks: 133
  330 1; 434 2; 435 1;
 
 Name: Sorbitol_(6TMS)_MP_RI:1923_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Sorbitol_(6TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 98
 Num Peaks: 194
  72 16; 73 999; 74 75; 83 14; 85 2;
@@ -2429,7 +2528,8 @@ Num Peaks: 194
  421 7; 422 3; 423 5; 424 2;
 
 Name: Glucuronic acid_(1MEOX)(5TMS)_MP_RI:1924_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucuronic acid_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 99
 Num Peaks: 115
  70 10; 71 1; 72 15; 73 999; 74 87;
@@ -2457,7 +2557,8 @@ Num Peaks: 115
  334 22; 335 11; 336 2; 337 1; 423 1;
 
 Name: Galactosamine_(1MEOX)(5TMS)_MP_RI:1927_IDENT:C+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Galactosamine_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 100
 Num Peaks: 166
  60 9; 61 8; 66 4; 67 2; 68 2;
@@ -2496,7 +2597,8 @@ Num Peaks: 166
  539 2;
 
 Name: Glucosamine_(1MEOX)(5TMS)_BP_RI:1927_IDENT:A+B
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucosamine_(1MEOX)(5TMS)_BP_RI:XXXX_IDENT:A+B
 ID: 101
 Num Peaks: 163
  60 9; 61 9; 66 5; 67 2; 68 2;
@@ -2534,7 +2636,8 @@ Num Peaks: 163
  537 3; 538 2; 539 1;
 
 Name: Galactitol_(6TMS)_MP_RI:1930_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Galactitol_(6TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 102
 Num Peaks: 118
  70 2; 71 3; 72 17; 73 999; 74 94;
@@ -2563,7 +2666,8 @@ Num Peaks: 118
  420 1; 421 3; 422 1;
 
 Name: Galactosamine, N-acetyl-_(1MEOX)(4TMS)_BP_RI:1933_IDENT:B+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Galactosamine, N-acetyl-_(1MEOX)(4TMS)_BP_RI:XXXX_IDENT:B+D
 ID: 103
 Num Peaks: 187
  60 7; 61 8; 66 5; 67 2; 68 6;
@@ -2606,7 +2710,8 @@ Num Peaks: 187
  595 2; 596 1;
 
 Name: Galactosamine_(1MEOX)(5TMS)_BP_RI:1933_IDENT:C+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Galactosamine_(1MEOX)(5TMS)_BP_RI:XXXX_IDENT:C+D
 ID: 104
 Num Peaks: 161
  60 12; 61 13; 66 3; 67 3; 68 2;
@@ -2644,7 +2749,8 @@ Num Peaks: 161
  539 1;
 
 Name: Glucosamine_(1MEOX)(5TMS)_MP_RI:1933_IDENT:A+B
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucosamine_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 105
 Num Peaks: 165
  60 14; 61 15; 62 1; 63 1; 66 7;
@@ -2682,7 +2788,8 @@ Num Peaks: 165
  357 1; 447 1; 537 2; 538 2; 539 1;
 
 Name: Galacturonic acid_(1MEOX)(5TMS)_MP_RI:1934_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Galacturonic acid_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 106
 Num Peaks: 124
  70 5; 71 3; 72 17; 73 999; 74 94;
@@ -2712,7 +2819,8 @@ Num Peaks: 124
  388 1; 393 1; 423 4; 424 1;
 
 Name: Glucuronic acid_(1MEOX)(5TMS)_BP_RI:1943_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucuronic acid_(1MEOX)(5TMS)_BP_RI:XXXX_IDENT:A+C
 ID: 107
 Num Peaks: 110
  70 10; 72 15; 73 999; 74 85; 75 64;
@@ -2739,7 +2847,8 @@ Num Peaks: 110
  334 19; 335 9; 336 2; 337 1; 423 1;
 
 Name: Galacturonic acid_(1MEOX)(5TMS)_BP_RI:1957_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Galacturonic acid_(1MEOX)(5TMS)_BP_RI:XXXX_IDENT:B+D
 ID: 108
 Num Peaks: 107
  70 4; 72 16; 73 999; 74 100; 75 82;
@@ -2766,7 +2875,8 @@ Num Peaks: 107
  423 2; 424 1;
 
 Name: Pantothenic acid_(3TMS)_MP_RI:1995_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Pantothenic acid_(3TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 109
 Num Peaks: 148
  70 22; 71 7; 72 42; 73 999; 74 97;
@@ -2801,7 +2911,8 @@ Num Peaks: 148
  420 8; 421 4; 422 1;
 
 Name: Gluconic acid_(6TMS)_MP_RI:1996_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Gluconic acid_(6TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 110
 Num Peaks: 133
  70 2; 71 3; 72 16; 73 999; 74 90;
@@ -2833,7 +2944,8 @@ Num Peaks: 133
  434 2; 435 4; 436 2;
 
 Name: Glucosamine, N-acetyl-_(1MEOX)(4TMS)_BP_RI:2075_IDENT:A+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucosamine, N-acetyl-_(1MEOX)(4TMS)_BP_RI:XXXX_IDENT:A+C
 ID: 111
 Num Peaks: 204
  60 18; 61 14; 62 1; 63 1; 66 5;
@@ -2879,7 +2991,8 @@ Num Peaks: 204
  335 3; 345 2; 523 1; 524 1;
 
 Name: Glucosamine, N-acetyl-_(1MEOX)(4TMS)_MP_RI:2080_IDENT:A+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucosamine, N-acetyl-_(1MEOX)(4TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 112
 Num Peaks: 218
  60 15; 61 18; 62 2; 63 2; 65 1;
@@ -2928,7 +3041,8 @@ Num Peaks: 218
  345 2; 523 1; 524 1;
 
 Name: Inositol_ myo-_(6TMS)_MP_RI:2088_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Inositol_ myo-_(6TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 113
 Num Peaks: 136
  70 1; 71 2; 72 14; 73 999; 74 99;
@@ -2961,7 +3075,8 @@ Num Peaks: 136
  508 1;
 
 Name: Uric acid_(4TMS)_MP_RI:2098_IDENT:A+B
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Uric acid_(4TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 114
 Num Peaks: 140
  60 1; 61 3; 62 1; 63 2; 66 1;
@@ -2993,7 +3108,8 @@ Num Peaks: 140
  442 49; 443 24; 444 7; 445 2; 455 9;
  456 64; 457 33; 458 16; 459 4; 460 1;
 Name: Ribulose-5-phosphate_(1MEOX)(5TMS)_BP_RI:2101_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ribulose-5-phosphate_(1MEOX)(5TMS)_BP_RI:XXXX_IDENT:A+B
 ID: 115
 Num Peaks: 124
  70 8; 72 14; 73 999; 74 61; 76 7;
@@ -3023,7 +3139,8 @@ Num Peaks: 124
  374 1; 387 2; 389 1; 431 1;
 
 Name: Galactosamine, N-acetyl-_(1MEOX)(4TMS)_MP_RI:2101_IDENT:B+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Galactosamine, N-acetyl-_(1MEOX)(4TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 116
 Num Peaks: 212
  60 12; 61 12; 62 1; 63 1; 66 5;
@@ -3071,7 +3188,8 @@ Num Peaks: 212
  523 2; 524 1;
 
 Name: Ribose-5-phosphate_(1MEOX)(5TMS)_BP_RI:2105_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ribose-5-phosphate_(1MEOX)(5TMS)_BP_RI:XXXX_IDENT:C+D
 ID: 117
 Num Peaks: 166
  70 23; 72 50; 73 999; 74 190; 75 175;
@@ -3110,7 +3228,8 @@ Num Peaks: 166
  461 2;
 
 Name: Ribose-5-phosphate_(1MEOX)(5TMS)_MP_RI:2109_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ribose-5-phosphate_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 118
 Num Peaks: 174
  70 9; 71 5; 72 34; 73 999; 74 162;
@@ -3150,7 +3269,8 @@ Num Peaks: 174
  431 1; 459 8; 460 4; 461 2;
 
 Name: Ribulose-5-phosphate_(1MEOX)(5TMS)_MP_RI:2115_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Ribulose-5-phosphate_(1MEOX)(5TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 119
 Num Peaks: 180
  70 23; 71 19; 72 53; 73 999; 74 183;
@@ -3191,7 +3311,8 @@ Num Peaks: 180
  380 2; 387 18; 388 7; 389 6; 390 2;
 
 Name: Cystathionine_(2TMS)_BP_RI:2120_IDENT:A+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Cystathionine_(2TMS)_BP_RI:XXXX_IDENT:A+D
 ID: 120
 Num Peaks: 153
  60 42; 61 238; 62 19; 63 12; 64 1;
@@ -3227,7 +3348,8 @@ Num Peaks: 153
  366 13; 367 3; 368 1;
 
 Name: Cystathionine_(3TMS)_BP_RI:2164_IDENT:A+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Cystathionine_(3TMS)_BP_RI:XXXX_IDENT:A+D
 ID: 121
 Num Peaks: 145
  60 24; 61 66; 62 4; 63 4; 66 5;
@@ -3261,7 +3383,8 @@ Num Peaks: 145
  322 2; 323 1; 348 1; 438 4; 439 1;
 
 Name: Spermidine_(4TMS)_BP_RI:2191_IDENT:A+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Spermidine_(4TMS)_BP_RI:XXXX_IDENT:A+C
 ID: 122
 Num Peaks: 131
  60 30; 61 11; 62 1; 63 1; 66 1;
@@ -3293,7 +3416,8 @@ Num Peaks: 131
  420 2;
 
 Name: Cystathionine_(4TMS)_MP_RI:2197_IDENT:A+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Cystathionine_(4TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 123
 Num Peaks: 157
  60 27; 61 31; 62 3; 63 4; 65 1;
@@ -3330,7 +3454,8 @@ Num Peaks: 157
  510 2; 511 1;
 
 Name: Tryptophan_(3TMS)_MP_RI:2206_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Tryptophan_(3TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 124
 Num Peaks: 95
  70 5; 71 2; 72 17; 73 999; 74 88;
@@ -3354,7 +3479,8 @@ Num Peaks: 95
  302 1; 303 3; 304 1; 377 1; 405 1;
 
 Name: Spermidine_(5TMS)_MP_RI:2246_IDENT:A+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Spermidine_(5TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 125
 Num Peaks: 110
  60 20; 61 8; 67 1; 68 7; 69 3;
@@ -3381,7 +3507,8 @@ Num Peaks: 110
  318 1; 344 2; 345 1; 490 2; 491 1;
 
 Name: Fructose-1-phosphate_(1MEOX)(6TMS)_MP_RI:2291_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Fructose-1-phosphate_(1MEOX)(6TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 126
 Num Peaks: 237
  70 9; 71 17; 72 35; 73 999; 74 176;
@@ -3434,7 +3561,8 @@ Num Peaks: 237
  484 2; 485 1;
 
 Name: Fructose-6-phosphate_(1MEOX)(6TMS)_MP_RI:2300_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Fructose-6-phosphate_(1MEOX)(6TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 127
 Num Peaks: 232
  70 10; 71 8; 72 27; 73 999; 74 142;
@@ -3486,7 +3614,8 @@ Num Peaks: 232
  461 4; 462 1;
 
 Name: Glucose-1/6-phosphate_(1MEOX)(6TMS)_MP_RI:2315_IDENT:C+D/A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucose-1/6-phosphate_(1MEOX)(6TMS)_MP_RI:XXXX_IDENT:C+D/A+B
 ID: 128
 Num Peaks: 204
  70 8; 71 8; 72 27; 73 999; 74 138;
@@ -3532,7 +3661,8 @@ Num Peaks: 204
  443 1; 471 8; 472 4; 473 2;
 
 Name: Glucose-6-phosphate_(1MEOX)(6TMS)_BP_RI:2316_IDENT:A+B
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Glucose-6-phosphate_(1MEOX)(6TMS)_BP_RI:XXXX_IDENT:A+B
 ID: 129
 Num Peaks: 208
  60 9; 61 16; 62 1; 63 2; 65 1;
@@ -3579,7 +3709,8 @@ Num Peaks: 208
  471 9; 472 4; 473 2;
 
 Name: Gluconic acid-6-phosphate_(7TMS)_MP_RI:2425_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Gluconic acid-6-phosphate_(7TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 130
 Num Peaks: 168
  70 5; 71 10; 72 25; 73 999; 74 129;
@@ -3618,7 +3749,8 @@ Num Peaks: 168
  459 1; 471 3; 472 1;
 
 Name: Uridine_(3TMS)_MP_RI:2473_IDENT:A+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Uridine_(3TMS)_MP_RI:XXXX_IDENT:A+D
 ID: 131
 Num Peaks: 162
  70 23; 71 20; 72 36; 73 999; 74 124;
@@ -3656,7 +3788,8 @@ Num Peaks: 162
  349 1; 445 1;
 
 Name: Inosine_(4TMS)_MP_RI:2586_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Inosine_(4TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 132
 Num Peaks: 207
  70 13; 71 10; 72 40; 73 999; 74 157;
@@ -3703,7 +3836,8 @@ Num Peaks: 207
  542 4; 543 2;
 
 Name: Sucrose_(8TMS)_MP_RI:2628_IDENT:A+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Sucrose_(8TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 133
 Num Peaks: 148
  70 3; 71 3; 72 13; 73 999; 74 83;
@@ -3738,7 +3872,8 @@ Num Peaks: 148
  451 4; 452 2; 453 1;
 
 Name: Adenosine_(4TMS)_MP_RI:2646_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Adenosine_(4TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 134
 Num Peaks: 194
  70 11; 71 8; 72 29; 73 999; 74 142;
@@ -3782,7 +3917,8 @@ Num Peaks: 194
  539 1; 540 5; 541 3; 542 1;
 
 Name: Spermine_(5TMS)_MP_RI:2668_IDENT:B+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Spermine_(5TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 135
 Num Peaks: 145
  60 28; 61 10; 62 1; 65 1; 66 2;
@@ -3816,7 +3952,8 @@ Num Peaks: 145
  317 3; 318 1; 475 2; 476 2; 491 1;
 
 Name: Lactose_(1MEOX)(8TMS)_MP_RI:2675_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Lactose_(1MEOX)(8TMS)_MP_RI:XXXX_IDENT:B+D
 ID: 136
 Num Peaks: 216
  70 8; 71 6; 72 25; 73 999; 74 158;
@@ -3865,7 +4002,8 @@ Num Peaks: 216
  482 1;
 
 Name: Lactose_(1MEOX)(8TMS)_BP_RI:2690_IDENT:B+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Lactose_(1MEOX)(8TMS)_BP_RI:XXXX_IDENT:B+D
 ID: 137
 Num Peaks: 158
  70 3; 72 16; 73 999; 74 104; 75 91;
@@ -3902,7 +4040,8 @@ Num Peaks: 158
  364 2; 390 1; 451 1;
 
 Name: Fructose-1_6-diphosphate_(1MEOX)(7TMS)_MP_RI:2697_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Fructose-1_6-diphosphate_(1MEOX)(7TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 138
 Num Peaks: 278
  70 13; 71 9; 72 31; 73 999; 74 184;
@@ -3963,7 +4102,8 @@ Num Peaks: 278
  544 4; 545 2; 546 1;
 
 Name: Fructose-1_6-diphosphate_(1MEOX)(7TMS)_BP_RI:2699_IDENT:B+C
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Fructose-1_6-diphosphate_(1MEOX)(7TMS)_BP_RI:XXXX_IDENT:B+C
 ID: 139
 Num Peaks: 256
  70 9; 71 8; 72 22; 73 999; 74 139;
@@ -4020,7 +4160,8 @@ Num Peaks: 256
  545 1;
 
 Name: Spermine_(5TMS)_BP_RI:2713_IDENT:B+D
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Spermine_(5TMS)_BP_RI:XXXX_IDENT:B+D
 ID: 140
 Num Peaks: 81
  64 8; 68 12; 70 97; 72 38; 73 999;
@@ -4042,7 +4183,8 @@ Num Peaks: 81
  566 1;
 
 Name: Maltose_(1MEOX)(8TMS)_MP_RI:2719_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Maltose_(1MEOX)(8TMS)_MP_RI:XXXX_IDENT:C+D
 ID: 141
 Num Peaks: 183
  70 7; 71 6; 72 19; 73 999; 74 110;
@@ -4084,7 +4226,8 @@ Num Peaks: 183
  451 1; 480 3; 481 2;
 
 Name: Trehalose_a-a-_(8TMS)_MP_RI:2726_IDENT:A+B
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Trehalose_a-a-_(8TMS)_MP_RI:XXXX_IDENT:A+B
 ID: 142
 Num Peaks: 163
  70 4; 71 6; 72 19; 73 999; 74 122;
@@ -4122,7 +4265,8 @@ Num Peaks: 163
  364 7; 365 1; 377 1;
 
 Name: Maltose_(1MEOX)(8TMS)_BP_RI:2744_IDENT:C+D
-Author: MauiSILVIAPHJLK
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: Maltose_(1MEOX)(8TMS)_BP_RI:XXXX_IDENT:C+D
 ID: 143
 Num Peaks: 185
  70 5; 71 7; 72 19; 73 999; 74 128;
@@ -4164,7 +4308,8 @@ Num Peaks: 185
  365 1; 390 2; 451 1; 598 1; 599 1;
 
 Name: UMP_(5TMS)_MP_RI:2878_IDENT:B+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: UMP_(5TMS)_MP_RI:XXXX_IDENT:B+C
 ID: 144
 Num Peaks: 211
  60 6; 61 13; 62 1; 63 2; 65 3;
@@ -4212,7 +4357,8 @@ Num Peaks: 211
  598 1;
 
 Name: AMP_(5TMS)_MP_RI:3066_IDENT:A+C
-Author: contrib by M. Pietzke 
+Author: Matthias Pietzke and Tobias Opialla, MDC Berlin
+match2tsv: AMP_(5TMS)_MP_RI:XXXX_IDENT:A+C
 ID: 145
 Num Peaks: 228
  60 4; 61 12; 62 1; 63 3; 65 4;
